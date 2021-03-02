@@ -1,2 +1,2 @@
 # diegoacevedotareamit.github.io
-Webiste
+Website
